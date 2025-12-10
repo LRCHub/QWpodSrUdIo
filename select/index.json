@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "備えあれば無問題",
+  "base_artist": "CANDY TUNE",
+  "createdAt": "2025-12-10T11:57:33.135936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "備えあれば無問題",
+      "artist": "CANDY TUNE",
+      "has_synced": true,
+      "path": "select/01_備えあれば無問題_CANDY_TUNE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "備えあれば無問題",
+      "artist": "CANDY TUNE",
+      "has_synced": false,
+      "path": "select/pl_01_備えあれば無問題_CANDY_TUNE.txt"
+    }
+  ]
+}
